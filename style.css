@@ -311,9 +311,7 @@ a{
     float: left;
     background: #fc4e4e;
 }
-.ipsum{
-    width: 70%;
-}
+
 .footer{background-color:#fc4e4e ;
  
      grid-area: footer;
