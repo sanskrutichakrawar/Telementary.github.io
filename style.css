@@ -29,7 +29,7 @@ body{
     .container{
        display: grid;
        grid-template-columns: 1fr 0.1fr 1fr;
-       grid-template-rows:90px 550px 550px 2130px 650px 900px 600px 600px 750px 850px ;
+       grid-template-rows:90px 550px 550px 3130px 650px 900px 600px 600px 750px 850px ;
        grid-template-areas: 
           "navbar navbar navbar"
           "div1 div1 div1"
