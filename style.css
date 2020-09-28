@@ -11,7 +11,7 @@ body{
       display: grid;
       grid-template-columns: 1fr 0.1fr 1fr;
       grid-template-rows:90px 480px 550px 500px 600px 500px 500px 600px;
-   
+      grid-gap:5px solid #fff;
       grid-template-areas:     
           "navbar navbar navbar"
           "div1 div1 div1"
